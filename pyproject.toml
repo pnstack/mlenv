@@ -1,7 +1,7 @@
 [project]
 name = "mlenv"
 version = "0.1.0"
-description = "Add your description here"
+description = "A comprehensive machine learning environment and toolkit with PyTorch, transformers, and modern Python packaging"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
